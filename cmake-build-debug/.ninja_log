@@ -1,0 +1,16 @@
+# ninja log v5
+1	347	1679763069008236638	CMakeFiles/algosi_1.dir/main.cpp.o	eef672d7b9e154f9
+348	382	1679763069046443609	algosi_1	3914bee0c0d483d4
+6	191	1679762714273502644	CMakeFiles/algosi_1.dir/Writers/FileWriter.cpp.o	f54f29771a7e0745
+1	348	1679763069010477202	CMakeFiles/algosi_1.dir/core.cpp.o	e666c1f44405a419
+4	128	1685903058848599997	CMakeFiles/algosi_1.dir/Writers/FileWriter.cpp.o	919616a5fd1a1d47
+4	481	1685903059201226766	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+1	320	1685903157148292277	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+1	453	1685903248530994147	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+1	294	1685903333251663962	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+2	476	1685903483582617757	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+1	457	1685904081966261078	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+2	444	1685904719922827473	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+1	450	1685906383804997724	CMakeFiles/algosi_1.dir/main.cpp.o	ac52894faa37c6a7
+2	450	1685906383805555478	CMakeFiles/algosi_1.dir/core.cpp.o	d0ee84aafe6b795
+450	492	1685906383849207856	algosi_1	3914bee0c0d483d4
